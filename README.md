@@ -25,7 +25,7 @@ git --version
 
  How to Run
 1. Clone the repository:
-git clone https://github.com/YOUR_USERNAME/traffic_light_fsm.git
+git clone https://github.com/JYOTHISH1823/traffic_light_control.git
 cd traffic_light_fsm
 2. Compile the design + testbench:
 iverilog -o traffic_light_tb.out src/traffic_light.v tb/traffic_light_tb.v
