@@ -23,7 +23,7 @@ iverilog -V
 gtkwave --version
 git --version
 
-▶ How to Run
+ How to Run
 1. Clone the repository:
 git clone https://github.com/YOUR_USERNAME/traffic_light_fsm.git
 cd traffic_light_fsm
