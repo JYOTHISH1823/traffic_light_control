@@ -1,2 +1,2 @@
-*.out
-*.vcd
+sim/*.out
+sim/*.vcd
