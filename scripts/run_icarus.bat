@@ -1,0 +1,9 @@
+@echo off
+echo Compiling Traffic Light FSM...
+iverilog -o traffic_light_tb.out ..\src\traffic_light.v ..\tb\traffic_light_tb.v
+
+echo Running Simulation...
+vvp traffic_light_tb.out
+
+echo Opening Waveform in GTKWave...
+gtkwave traffic_light.vcd
