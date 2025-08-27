@@ -45,3 +45,4 @@ Learning Outcomes
 - Using Icarus Verilog for simulation
 - Visualizing signals with GTKWave
 - Structuring a Verilog project for GitHub
+<img width="1575" height="773" alt="Screenshot 2025-08-19 151648" src="https://github.com/user-attachments/assets/97d4c071-d033-4753-bfc3-12272e42a44b" />
